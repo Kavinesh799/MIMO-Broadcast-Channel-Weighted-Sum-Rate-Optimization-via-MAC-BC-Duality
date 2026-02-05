@@ -92,8 +92,8 @@ This project is implemented in Python with the main experiments driven through a
 
 ### 📦 Files
 
-- `[MIMO_BC.ipynb](MIMO_BC.ipynb)` — main notebook for simulations and experiments  
-- `[opt_dual_mac_cov.py](opt_dual_mac_cov.py)` — implementation of the iterative dual MAC covariance optimization algorithm  
+- `MIMO_BC.ipynb` — main notebook for simulations and experiments  
+- `opt_dual_mac_cov.py` — implementation of the iterative dual MAC covariance optimization algorithm  
 
 ---
 
