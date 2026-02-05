@@ -1,6 +1,5 @@
 import numpy as np
 from scipy.optimize import minimize_scalar
-import code
 
 
 def compute_gradient(H_list, Q_list, q_values, sigma2):
